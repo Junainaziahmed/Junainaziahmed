@@ -8,7 +8,6 @@ BCA Graduate| Cybersecurity | AI
 - CSS
 - Flask
 - Git & GitHub
-- SQL
 - Cybersecurity
 - Computer Networks
 - Cryptography
