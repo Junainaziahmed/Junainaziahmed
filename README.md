@@ -1,6 +1,6 @@
 # Hi, I'm Junaina Zia Ahmed 👋
 
-BCA Student | Cybersecurity | AI | Software Development
+BCA Student | Cybersecurity | AI
 
 ## Skills
 - Python
