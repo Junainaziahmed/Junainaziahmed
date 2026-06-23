@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Junaina Zia Ahmed 👋
 
-<!--
-**Junainaziahmed/Junainaziahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Cybersecurity | AI | Software Development
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
+- Flask
+- Git & GitHub
+- SQL
+- Cybersecurity
+- Computer Networks
+- Cryptography
+- AI Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Phishing Email Detector
+- Security Audit Toolkit
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/junaina-zia-ahmed-238715414
+- Email: junainaziaahmed58@gmail.com
